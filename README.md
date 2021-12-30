@@ -2,19 +2,70 @@
 
 This is my fisrst malware!
 
-It was coded in C++, batch, and VBScript. It took-me a week and a half to finish.
+Ldays.exe or LastDays.exe was coded in C++, batch, and VBScript. It took-me a week and a half to finish.
+
+**Index**
+
+[TOC]
 
 # Payloads
 
 This malware looks a lot like to the NoEscape.exe malware, then, the payloads appears in especific dates, here are the dates:
 
 - **jan, 1st** - Some message boxes appears saying "Stupid error";
+
 - **apr, 1st** - Some message boxes appears saying "HAPPY APRIL FOOLS!", while some colored squares appears in the desktop;
+
 - **apr, 21st** - A tunnel like effect apeears in the desktop;
-- **oct, 31st** - An always on top message box appears asking "Do you like windows?", if you answer "no", the message box appears again, if you answer "yes", the pc get a BSOD;
+
+- **oct, 31st** - An always on top message box appears asking "Do you like windows?", if you answer "no", the message box appears again, if you answer "yes", the PC get a BSOD;
+
 - **dec, 25th** - Some message box appears saying "Do you like lag?", while a lot of programs open;
+
 - **dec, 30th** - A tunnel like effect appears in the desktop at the same time that some colored squares appears in the desktop, while a lot of programs open;
-- **dec, 31st** - The bootloader gets erased, after, the notepad opens, the input get blocked, and 
+
+- **dec, 31st** - The bootloader gets erased, the notepad opens, the input get blocked, and some words are automatically typed in the notepad, then, the PC get a BSOD.
+
+
+## dec 31st payload
+
+The payload that appears in dec 31st is the most dangerous, because it erase your bootloader.
+
+After the bootloader gets erased, the notepad open, the input get blocked,  and the following text is typed automatically:
+
+```
+LOOK
+ITS DEC THIRDY FIRST
+
+WHAT HAPPENED THIS YEAR:
+
+JAN FIRST    MESSAGEBOX SPAM
+APR FIRST    MESSAGEBOX SPAM SAYING   HAPPY APRIL FOOLS  , WHILE SOME VISUAL EFFECTS APPEARS
+APR TWENTY FIRST    TUNNEL EFFECT ON DESKTOP
+OCT THIRDY FIRST    BSOD
+DEC TWENTY FIFTH    MESSAGEBOX SPAM WHILE A LOT OF PROGRAMS OPEN
+DEC THIRTY    SOME VISUAL EFFECTS AND TUNNEL EFFECT APPEAR WHILE A LOT OF PROGRAMS OPEN
+
+BUT NOW WHAT HAPPENS:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENJOY
+```
 
 # Compiling
 
