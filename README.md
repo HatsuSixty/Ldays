@@ -6,7 +6,11 @@ Ldays.exe or LastDays.exe was coded in C++, batch, and VBScript. It took-me a we
 
 **Index**
 
-[TOC]
+- [Ldays.exe](#Ldays.exe)
+- [Payloads](#Payloads)
+	- [dec 31st payload](#dec 31st payload)
+- [Compiling](#Compiling)
+
 
 # Payloads
 
