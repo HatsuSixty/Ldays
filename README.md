@@ -1,6 +1,6 @@
 # Ldays.exe
 
-This is my fisrst malware!
+This is my first malware!
 
 Ldays.exe or LastDays.exe was coded in C++, batch, and VBScript. It took-me a week and a half to finish.
 
