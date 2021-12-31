@@ -10,6 +10,7 @@ Ldays.exe or LastDays.exe was coded in C++, batch, and VBScript. It took-me a we
 - [Payloads](#Payloads)
 	- [dec 31st payload](#dec%2031st%20payload)
 - [Compiling](#Compiling)
+- [Disclaimer](#Disclaimer)
 
 
 # Payloads
@@ -93,3 +94,7 @@ I used Visual Studio 2022 community to code this malware. Here is the guide to c
 - **6)** Right click in the solution, then, click in the button called "Compile solution";
 
 All compiled files will be appear in the "Release" folder.
+
+# Disclaimer
+
+I'm NOT RESPONSIBLE for ANY DAMAGE caused on your computer.
