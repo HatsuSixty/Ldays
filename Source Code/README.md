@@ -1,2 +1,2 @@
-# Images
-Just a few images that are used in the compiling tutorial
+# Source Code
+This is the source code that i used to build this project.
