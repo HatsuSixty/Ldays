@@ -3,6 +3,7 @@
 This is my first malware!
 
 Ldays.exe or LastDays.exe was coded in C++, batch, and VBScript. It took-me a week and a half to finish.
+I tested it in Windows 10 only, so i don't recommend you test it in other versions of Windows.
 
 **Index**
 
@@ -85,7 +86,7 @@ I used Visual Studio 2022 community to code this malware. Here is the guide to c
 
  - **3)** In the installer, select "Desktop development with C++" and click in "install":
  
- <p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/robertohermenegildodias/Ldays/main/Images/vs2022-installer-workloads.png"/>
 </p>
  
