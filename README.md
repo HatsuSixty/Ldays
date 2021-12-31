@@ -90,7 +90,7 @@ I used Visual Studio 2022 community to code this malware. Here is the guide to c
  
  ![](https://raw.githubusercontent.com/robertohermenegildodias/Ldays/main/Images/vsmainscreen.png)
 
- - **5)** When you load the project solution, load all projects in the solution explorer, by clicking with the right mouse button in the project, then, clicking in the button called reload project;
+ - **5)** When you load the project solution, load all projects in the solution explorer, by clicking with the right mouse button in the project, then, clicking in the button called "Reload Project";
 
 - **6)** Right click in the solution, then, click in the button called "Compile solution";
 
