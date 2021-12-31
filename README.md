@@ -8,7 +8,7 @@ Ldays.exe or LastDays.exe was coded in C++, batch, and VBScript. It took-me a we
 
 - [Ldays.exe](#Ldays.exe)
 - [Payloads](#Payloads)
-	- [dec 31st payload](#dec 31st payload)
+	- [dec 31st payload](#dec%2031st%20payload)
 - [Compiling](#Compiling)
 
 
