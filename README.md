@@ -85,7 +85,10 @@ I used Visual Studio 2022 community to code this malware. Here is the guide to c
 
  - **3)** In the installer, select "Desktop development with C++" and click in "install":
  
- ![](https://raw.githubusercontent.com/robertohermenegildodias/Ldays/main/Images/vs2022-installer-workloads.png)
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/robertohermenegildodias/Ldays/main/Images/vs2022-installer-workloads.png"/>
+</p>
+ 
  - **4)** When you open Visual Studio, select "Open a project or a solution" and open the .sln file that is in the folder that you downloaded:
  
 <p align="center">
