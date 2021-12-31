@@ -71,6 +71,8 @@ BUT NOW WHAT HAPPENS:
 ENJOY
 ```
 
+When the text is fully typed, the PC get a BSOD.
+
 # Compiling
 
 I used Visual Studio 2022 community to code this malware. Here is the guide to compile this project.
