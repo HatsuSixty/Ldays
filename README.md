@@ -11,6 +11,7 @@ Ldays.exe or LastDays.exe was coded in C++, batch, and VBScript. It took-me a we
 	- [dec 31st payload](#dec-31st-payload)
 - [Compiling](#Compiling)
 - [Disclaimer](#Disclaimer)
+- [Download](#Download)
 
 
 # Payloads
@@ -98,3 +99,7 @@ All compiled files will be appear in the "Release" folder.
 # Disclaimer
 
 I'm NOT RESPONSIBLE for ANY DAMAGE caused on your computer.
+
+# Download
+
+You can download the compiled version [here](https://github.com/robertohermenegildodias/Ldays/blob/main/Compiled%20Version/Ldays.exe?raw=true).
