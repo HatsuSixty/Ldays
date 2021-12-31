@@ -88,8 +88,9 @@ I used Visual Studio 2022 community to code this malware. Here is the guide to c
  ![](https://raw.githubusercontent.com/robertohermenegildodias/Ldays/main/Images/vs2022-installer-workloads.png)
  - **4)** When you open Visual Studio, select "Open a project or a solution" and open the .sln file that is in the folder that you downloaded:
  
- ![](https://raw.githubusercontent.com/robertohermenegildodias/Ldays/main/Images/vsmainscreen.png)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/robertohermenegildodias/Ldays/main/Images/vsmainscreen.png"/>
+</p>
  - **5)** When you load the project solution, load all projects in the solution explorer, by clicking with the right mouse button in the project, then, clicking in the button called "Reload Project";
 
 - **6)** Right click in the solution, then, click in the button called "Compile solution";
